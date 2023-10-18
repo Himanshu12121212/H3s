@@ -1,0 +1,93 @@
+.div1{background-color: rgb(170, 253, 253); 
+     width: 100%; height: 200px;
+     position: relative; 
+     overflow: hidden;}
+
+#A{   height: 400px; width: 50%;
+      background-color: rgb(7, 59, 91); 
+      position: absolute; rotate: -40deg; }
+
+#B{ position: absolute;
+    margin-left: 11%;
+    color: white;
+    font-size: 69px; 
+    margin-top: 50px; 
+    letter-spacing: 22px;}
+
+
+#C{ position: absolute;
+    margin-left: 43%;
+    background-color: rgb(102, 138, 248);
+    height: 150PX; width: 30%; 
+    rotate: 50DEG;
+    margin-top: 30PX; }
+#D{ width: 100%; height: 10PX;
+     background-color: rgb(0, 0, 0); 
+      position: absolute;
+       margin-top: 190PX;
+       background-image: linear-gradient( TO RIGHT, rgb(111, 214, 243),rgb(38, 91, 249)); overflow: hidden;}
+
+#E{ width: 500px; height: 20px; 
+    background-color: rgb(228, 74, 74);
+     margin-left: 42%; rotate: 50deg;
+      position: absolute;}
+#F{ position: absolute;
+         margin-top: 60px; 
+        margin-left: 40px;}
+  #G{ 
+            position: absolute; border-radius: 30%;
+            width: 50%;
+            height: 30PX;
+            margin-left: 75%;
+            margin-top: 73PX;}
+  #H{ position: absolute; margin-left: 86%; margin-top: 65px;}
+        #I{ margin-left: 95%; margin-top: 60px;}
+
+
+.Nav{ position: static; width: 100%; height: 50px; background-image: linear-gradient(to right,rgb(249, 30, 235),rgb(67, 102, 231),rgb(25, 252, 245)
+    ); margin-top: 5px;  }
+
+a{ text-decoration: none; 
+    color: black;  } 
+
+a:hover{ color: white;}
+
+
+
+.Main{ width: 100%;
+height: 1000PX; margin-top: 0%;position: relative;
+background-image: url(images/code3.jpg )  ; background-size: 1425px 1000px; background-repeat: no-repeat; border-radius: 20px; margin-top: 10px;overflow: hidden ;}
+
+.B{ color: white;
+ margin-left:5%; 
+ font-size: 30px;
+ margin-top: 350px; 
+    margin-right: 48%; 
+    position: absolute; 
+ letter-spacing: 12px; } 
+.B:hover{  text-shadow: 5px 1px 10px rgb(4, 172, 244);}
+.C{ color: white;
+    margin-left:70%; 
+    font-size: 20px;
+    margin-top: 50PX;
+     position: absolute; text-align: center; font-family: fantasy; font-size: 25px;
+  }
+  .C:hover{ text-shadow: 3px 3px 5px black; }
+ 
+  .CONTANT{ width: 100%; height: 700PX; position: relative; background-color: rgb(182, 244, 230); border-radius: 20PX;  margin-top: 10PX;} 
+  #LEFT{ position: absolute; width: 50%;  height: 700px; ;}
+  #RIGHT{  position: absolute; margin-left: 50%; width: 50%; height: 700PX;}
+  #L1{ font-size: 30px; text-align: center; background-color: rgb(182, 244, 230);  margin-top: 10%;  }
+  #L1:hover{  text-shadow: 2px 2px 5px rgb(31, 31, 31); }
+  #L2{ position: absolute; margin-left: 25%; font-size: 22px;}
+  #L3{ position: absolute; margin-left: 33%; margin-top: 20%; }
+  #L4{ position: absolute; margin-left: 33%; margin-top: 35%; }
+  #B1{padding-left: 50px; padding-right: 75px; background-color: black;color: white; font-size: 17px; font-family: fantasy; border-radius: 45px;}
+  #B2{ padding-left: 50px; padding-right: 50px; background-color: black; color: white; font-size: 17px; font-family:  fantasy; border-radius: 45px;}
+  #B1:hover{ box-shadow: 3px 5px 12px rgb(223, 11, 103);}
+  #B2:hover{ box-shadow: 3px 5px 12px rgb(247, 60, 141);}
+  #R1{ margin-top: 17%;  border-radius: ; margin-right: 30%; border-radius: 30px;}
+  .footer{width: 100%;height: 100px; position: relative; margin-top: 5px; border-radius: 20px; background-image: linear-gradient( to right, lightblue,red,yellow
+    ); text-align: center; margin-top: 10px; font-size: 20px; background-image: url(images/CC239450-38FA-495A-9201-D57D4DC420B0_1_201_a.jpeg);background-size: 1450px 100px; background-repeat: no-repeat;  color: white;}
+    
+.D{}
